@@ -1,0 +1,1 @@
+terminal -> contacts -> nodemon server.js -> localhost:3000
