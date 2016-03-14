@@ -1,10 +1,19 @@
 [{
 	"id" : 1,
-	"firstName" : ["Jack", "text"]
-
-},
-
- {
-
-
-} ]
+	"userId": 1,
+	"firstName": ["stergio", "text"],
+	"lastName": ["michopo", "text"],
+	"phoneNumber": [6974941354]
+}, {
+	"id": 2,
+	"userId": 1,
+	"firstName": ["niko", "text"],
+	"lastName": ["markari", "text"],
+	"phoneNumber": [6983456701]
+}, {
+	"id": 3,
+	"userId": 1,
+	"firstName": ["dimitri", "text"],
+	"lastName": ["mpalatsia", "text"],
+	"phoneNumber": [6953457863]
+}]
